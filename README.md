@@ -7,7 +7,7 @@ A simple multi-threaded Python GUI for downloading Youtube songs directly to you
 <br>
 <ul>
 <li><b>Installing youtube_dl  :- </b>pip install youtube_dl</li>
-<li><b>Installing Beautifulsoup :- </b> pip install bs4</li>
+<li><b>Installing Beautifulsoup :- </b>pip install bs4</li>
 <br>
 </ul>
 <li>Thats's it , just execute the musicdownloader.py file using </li>
