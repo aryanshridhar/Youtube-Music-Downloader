@@ -1,0 +1,2 @@
+youtube_dl==2020.1.24
+beautifulsoup4==4.8.2
